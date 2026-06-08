@@ -1,0 +1,44 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2026 이수미 (Sumi Lee)
+
+이 저장소의 문서 콘텐츠(프롬프트, 워크북, 부록, 템플릿)는
+Creative Commons Attribution-NonCommercial 4.0 International License를 따릅니다.
+
+귀하는 다음을 자유롭게 할 수 있습니다.
+  - 공유 — 어떤 매체나 형식으로든 자료를 복제·재배포
+  - 변경 — 자료를 리믹스·변형·2차적 저작물 작성
+
+다음 조건을 따라야 합니다.
+  - 저작자 표시(BY) — 적절한 출처를 밝히고, 변경 여부를 표시해야 합니다.
+    예) 이수미, 『AI 활용 논문작성법』 독자 자료실
+        (https://github.com/sumilee-pcu/ai-research-lab)
+  - 비영리(NC) — 자료를 영리 목적으로 이용할 수 없습니다.
+
+전체 법적 조항: https://creativecommons.org/licenses/by-nc/4.0/legalcode.ko
+
+---
+
+소스 코드(code/ 디렉터리)는 별도로 MIT License를 따릅니다.
+
+MIT License
+
+Copyright (c) 2026 이수미 (Sumi Lee)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

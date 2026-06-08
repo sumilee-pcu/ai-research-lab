@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / 편집기
+.DS_Store
+Thumbs.db
+.obsidian/
+.vscode/
+*.swp
+
+# 임시·산출물
+tmp/
+*.tmp
+*.log
+output/
+figures_out/
+
+# 개인 키·자격증명 (절대 커밋 금지)
+*.key
+*_key.txt
+.env
+secrets.*
+supabase_key.txt
